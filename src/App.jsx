@@ -39,11 +39,11 @@ function App() {
       <ParallaxShowcase />
       <Features />
       <DeepDive />
-      <Stats />
       <HowItWorks />
-      <Testimonials />
-      <Pricing />
       <AppPreview />
+      <Stats />
+      <Pricing />
+      <Testimonials />
       <FAQ />
       <CTA />
       <Footer />
